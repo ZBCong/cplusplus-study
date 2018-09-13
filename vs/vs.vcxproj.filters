@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\src\case1\namespace.cpp">
+    <ClCompile Include="..\src\case\case2-bool.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
